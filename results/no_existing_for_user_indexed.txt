@@ -1,0 +1,9 @@
+Benchmark                                           (contacts)  Mode  Cnt        Score         Error  Units
+ContactsServicePerformanceTest.benchmarkInDatabase           1  avgt    3     3040.654 ±    9964.247  us/op
+ContactsServicePerformanceTest.benchmarkInDatabase          10  avgt    3    24899.739 ±   73828.096  us/op
+ContactsServicePerformanceTest.benchmarkInDatabase         100  avgt    3   236668.168 ±  511397.343  us/op
+ContactsServicePerformanceTest.benchmarkInDatabase        1000  avgt    3  1989433.071 ± 2643966.525  us/op
+ContactsServicePerformanceTest.benchmarkInMemory             1  avgt    3     1910.220 ±    3373.265  us/op
+ContactsServicePerformanceTest.benchmarkInMemory            10  avgt    3     1681.587 ±     752.343  us/op
+ContactsServicePerformanceTest.benchmarkInMemory           100  avgt    3     1702.525 ±     730.739  us/op
+ContactsServicePerformanceTest.benchmarkInMemory          1000  avgt    3     2531.333 ±    1005.934  us/op
