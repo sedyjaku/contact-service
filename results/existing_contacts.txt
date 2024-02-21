@@ -1,0 +1,9 @@
+Benchmark                (contacts)  Mode  Cnt         Score          Error  Units
+SomeTest.testInDatabase           1  avgt    3     12740.603 ±     7454.678  us/op
+SomeTest.testInDatabase          10  avgt    3    117849.034 ±   201481.281  us/op
+SomeTest.testInDatabase         100  avgt    3   1527158.271 ±  8484040.912  us/op
+SomeTest.testInDatabase        1000  avgt    3  13634436.914 ± 11246519.582  us/op
+SomeTest.testInMemory             1  avgt    3     20367.956 ±    62640.923  us/op
+SomeTest.testInMemory            10  avgt    3     15481.483 ±     6448.397  us/op
+SomeTest.testInMemory           100  avgt    3     16166.162 ±    11161.556  us/op
+SomeTest.testInMemory          1000  avgt    3     30809.222 ±    25221.614  us/op

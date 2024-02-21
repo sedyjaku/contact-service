@@ -1,4 +1,4 @@
-package cz.sedy.contactservice
+package cz.sedy.contacts
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication

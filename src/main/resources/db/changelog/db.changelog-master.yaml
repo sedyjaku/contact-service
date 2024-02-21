@@ -1,0 +1,4 @@
+databaseChangeLog:
+  - include:
+      file: contacts/db.contacts-1.0.yaml
+      relativeToChangelogFile: true
